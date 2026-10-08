@@ -1,0 +1,6 @@
+{
+  "name": "learning-center-git-project",
+  "description": "სასწავლო ცენტრის ვებსაიტის განვითარება Git ბრენჩებით, კონფლიქტის მოგვარება და სრული დოკუმენტაცია.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

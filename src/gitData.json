@@ -1,0 +1,113 @@
+{
+  "logGraph": "*   95b6b7b - (2026-10-08 05:41:08 +0000) fix(conflict): მოგვარდა კონფლიქტი index.html-ში title-a და title-b გაერთიანებისას (შერჩეული სახელწოდება)  (HEAD -> main) <სტუდენტი (Student)>\n|\\  \n| * 640f284 - (2026-10-08 05:41:08 +0000) style: ცენტრის სახელწოდების განახლება (ვარიანტი B: SkillHub Academy)  (title-b) <სტუდენტი (Student)>\n* |   a580b78 - (2026-10-08 05:41:08 +0000) Merge branch title-a into main  <სტუდენტი (Student)>\n|\\ \\  \n| |/  \n|/|   \n| * ae351b9 - (2026-10-08 05:41:08 +0000) style: ცენტრის სახელწოდების განახლება (ვარიანტი A: SkillHub Tech)  (title-a) <სტუდენტი (Student)>\n|/  \n* e030b89 - (2026-10-08 05:41:08 +0000) feat: მთავარ გვერდზე index.html დაემატა საკონტაქტო გვერდის (contact.html) ბმული  <სტუდენტი (Student)>\n*   1ac7096 - (2026-10-08 05:41:08 +0000) Merge branch feature-contact into main  <სტუდენტი (Student)>\n|\\  \n| * cd45baf - (2026-10-08 05:41:08 +0000) feat: შეიქმნა საკონტაქტო გვერდი contact.html (ელფოსტა, ტელეფონი, მისამართი)  (feature-contact) <სტუდენტი (Student)>\n* |   18c77a0 - (2026-10-08 05:41:08 +0000) Merge branch feature-courses into main  <სტუდენტი (Student)>\n|\\ \\  \n| |/  \n|/|   \n| * f56639c - (2026-10-08 05:41:08 +0000) feat: კურსების სიას დაემატა ხანგრძლივობა თითოეული მიმართულებისთვის  (feature-courses) <სტუდენტი (Student)>\n| * 8fc359c - (2026-10-08 05:41:08 +0000) feat: დაემატა სამი სასწავლო კურსის სია index.html-ში  <სტუდენტი (Student)>\n|/  \n* c42e75e - (2026-10-08 05:41:08 +0000) Initial commit: საწყისი პროექტის მომზადება (index.html და README.md)  <სტუდენტი (Student)>",
+  "logOneline": "*   95b6b7b (HEAD -> main) fix(conflict): მოგვარდა კონფლიქტი index.html-ში title-a და title-b გაერთიანებისას (შერჩეული სახელწოდება)\n|\\  \n| * 640f284 (title-b) style: ცენტრის სახელწოდების განახლება (ვარიანტი B: SkillHub Academy)\n* |   a580b78 Merge branch title-a into main\n|\\ \\  \n| |/  \n|/|   \n| * ae351b9 (title-a) style: ცენტრის სახელწოდების განახლება (ვარიანტი A: SkillHub Tech)\n|/  \n* e030b89 feat: მთავარ გვერდზე index.html დაემატა საკონტაქტო გვერდის (contact.html) ბმული\n*   1ac7096 Merge branch feature-contact into main\n|\\  \n| * cd45baf (feature-contact) feat: შეიქმნა საკონტაქტო გვერდი contact.html (ელფოსტა, ტელეფონი, მისამართი)\n* |   18c77a0 Merge branch feature-courses into main\n|\\ \\  \n| |/  \n|/|   \n| * f56639c (feature-courses) feat: კურსების სიას დაემატა ხანგრძლივობა თითოეული მიმართულებისთვის\n| * 8fc359c feat: დაემატა სამი სასწავლო კურსის სია index.html-ში\n|/  \n* c42e75e Initial commit: საწყისი პროექტის მომზადება (index.html და README.md)",
+  "status": "On branch main\nnothing to commit, working tree clean",
+  "branches": [
+    "feature-contact",
+    "  feature-courses",
+    "* main",
+    "  title-a",
+    "  title-b"
+  ],
+  "commits": [
+    {
+      "shortHash": "cd45baf",
+      "hash": "cd45baf4aa79f52ab720c5d439569dd26badc3b0",
+      "author": "სტუდენტი (Student)",
+      "email": "student@example.com",
+      "date": "Thu Oct 8 05:41:08 2026 +0000",
+      "message": "feat: შეიქმნა საკონტაქტო გვერდი contact.html (ელფოსტა, ტელეფონი, მისამართი)",
+      "refs": " (feature-contact)"
+    },
+    {
+      "shortHash": "f56639c",
+      "hash": "f56639c28d05149ae38a1317b6db008fba890e1e",
+      "author": "სტუდენტი (Student)",
+      "email": "student@example.com",
+      "date": "Thu Oct 8 05:41:08 2026 +0000",
+      "message": "feat: კურსების სიას დაემატა ხანგრძლივობა თითოეული მიმართულებისთვის",
+      "refs": " (feature-courses)"
+    },
+    {
+      "shortHash": "95b6b7b",
+      "hash": "95b6b7b0d93fdc537cb5f79444e17c8715e72b3c",
+      "author": "სტუდენტი (Student)",
+      "email": "student@example.com",
+      "date": "Thu Oct 8 05:41:08 2026 +0000",
+      "message": "fix(conflict): მოგვარდა კონფლიქტი index.html-ში title-a და title-b გაერთიანებისას (შერჩეული სახელწოდება)",
+      "refs": " (HEAD -> main)"
+    },
+    {
+      "shortHash": "ae351b9",
+      "hash": "ae351b94aa94ee417bbed0bddc57b6bee63bd611",
+      "author": "სტუდენტი (Student)",
+      "email": "student@example.com",
+      "date": "Thu Oct 8 05:41:08 2026 +0000",
+      "message": "style: ცენტრის სახელწოდების განახლება (ვარიანტი A: SkillHub Tech)",
+      "refs": " (title-a)"
+    },
+    {
+      "shortHash": "640f284",
+      "hash": "640f28418c97e713fede823fca9e254eff2c9133",
+      "author": "სტუდენტი (Student)",
+      "email": "student@example.com",
+      "date": "Thu Oct 8 05:41:08 2026 +0000",
+      "message": "style: ცენტრის სახელწოდების განახლება (ვარიანტი B: SkillHub Academy)",
+      "refs": " (title-b)"
+    },
+    {
+      "shortHash": "c42e75e",
+      "hash": "c42e75eedc2dbfd1611a53e6af6baf4ffeed0057",
+      "author": "სტუდენტი (Student)",
+      "email": "student@example.com",
+      "date": "Thu Oct 8 05:41:08 2026 +0000",
+      "message": "Initial commit: საწყისი პროექტის მომზადება (index.html და README.md)",
+      "refs": ""
+    },
+    {
+      "shortHash": "8fc359c",
+      "hash": "8fc359ce4db43fad52975e686895c3e9b634072b",
+      "author": "სტუდენტი (Student)",
+      "email": "student@example.com",
+      "date": "Thu Oct 8 05:41:08 2026 +0000",
+      "message": "feat: დაემატა სამი სასწავლო კურსის სია index.html-ში",
+      "refs": ""
+    },
+    {
+      "shortHash": "a580b78",
+      "hash": "a580b78675274afdc400aadd706ee736c9628204",
+      "author": "სტუდენტი (Student)",
+      "email": "student@example.com",
+      "date": "Thu Oct 8 05:41:08 2026 +0000",
+      "message": "Merge branch title-a into main",
+      "refs": ""
+    },
+    {
+      "shortHash": "e030b89",
+      "hash": "e030b894406b8ab9b625b6fddb66a43753ac2b68",
+      "author": "სტუდენტი (Student)",
+      "email": "student@example.com",
+      "date": "Thu Oct 8 05:41:08 2026 +0000",
+      "message": "feat: მთავარ გვერდზე index.html დაემატა საკონტაქტო გვერდის (contact.html) ბმული",
+      "refs": ""
+    },
+    {
+      "shortHash": "1ac7096",
+      "hash": "1ac7096382bc85731df1d055e60cad25559094bd",
+      "author": "სტუდენტი (Student)",
+      "email": "student@example.com",
+      "date": "Thu Oct 8 05:41:08 2026 +0000",
+      "message": "Merge branch feature-contact into main",
+      "refs": ""
+    },
+    {
+      "shortHash": "18c77a0",
+      "hash": "18c77a0ec082ceaa8c2839947431fa624180cba7",
+      "author": "სტუდენტი (Student)",
+      "email": "student@example.com",
+      "date": "Thu Oct 8 05:41:08 2026 +0000",
+      "message": "Merge branch feature-courses into main",
+      "refs": ""
+    }
+  ]
+}
